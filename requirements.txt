@@ -1,0 +1,9 @@
+## SCRAPING
+beautifulsoup4==4.10.0
+
+## UTILS
+ipywidgets==7.6.5
+tqdm==4.62.0
+wget==3.2
+jupyterlab-execute-time==2.0.5
+
